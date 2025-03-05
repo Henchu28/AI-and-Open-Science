@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/927880383.svg)](https://doi.org/10.5281/zenodo.14976908)
+
 # AI and OP in RSE
 
 
