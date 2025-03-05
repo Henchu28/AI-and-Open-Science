@@ -18,7 +18,7 @@ nav:
   - Inicio: index.md
   - Guía: README.md
   - Archivos:
-      - 'AI-and-OS/Prac1/archivos/rationale.md'
+      - 'AI-and-OS/Prac1/rationale.md'
 
 markdown_extensions:
   - admonition
