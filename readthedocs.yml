@@ -1,10 +1,13 @@
+# Read the Docs configuration file for MkDocs projects
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
 version: 2
 
 # Set the OS, Python version, and other tools you might need
 build:
-  os: windows-10
+  os: ubuntu-22.04
   tools:
-    python: "3.13"
+    python: "3.11"
 
 # Build documentation with Mkdocs
 mkdocs:
@@ -13,8 +16,3 @@ mkdocs:
 # Declare the Conda environment
 conda:
   environment: environment.yml  # Usa tu archivo de entorno Conda
-
-# Formatos de construcción
-formats:
-  - html
-  - pdf
