@@ -1,4 +1,4 @@
-# Rationale Prac 1
+# Práctica 1
 
 
 Este repositorio de Github contiene los ficheros necesarios para replicar el análisis de artículos de investigación realizados en mi máquina mediante GROBID.
