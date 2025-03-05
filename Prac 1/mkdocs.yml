@@ -1,0 +1,27 @@
+site_name: "Práctica 1 de Artificial Inteligence and Open Science"
+repo_url: "https://github.com/Henchu28/AI-and-Open-Science/Prac 1"
+edit_uri: "blob/main/docs/"
+
+theme:
+  name: "material"
+  palette:
+    scheme: default
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - toc.integrate
+
+nav:
+  - Inicio: index.md
+  - Guía: README.md
+  - Archivos:
+      - 'AI-and-OS/Prac1/archivos/rationale.md'
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
