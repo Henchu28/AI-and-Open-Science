@@ -17,7 +17,7 @@ theme:
 nav:
   - Inicio: docs/index.md
   - Guía: docs/README.md
-  - Rationale: Prac_1/rationale.md
+  - Rationale: Prac 1/rationale.md
 
 markdown_extensions:
   - admonition
