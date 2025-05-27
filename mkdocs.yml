@@ -1,18 +1,13 @@
-site_name: "Práctica 1 de Artificial Inteligence and Open Science"
-site_url: "https://Henchu28.github.io/AI-and-Open-Science"
-site_author: "Henchu28"
+site_name: "Task 2 - Artificial Inteligence and Open Science in Research Software Engineering"
+site_url: "https://javizhangg.github.io/Task2-AIAOSIRSE"
+site_author: "javizhangg"
 
 theme:
   name: readthedocs
 
 nav:
-  - Inicio: index.md
-  - Instalación: installation.md
-  - Testeo: test.md
-  - Licencia: license.md
-
-# Páginas y documentación
-docs_dir: docs
+  - Inicio: README.md
+  - Licencia: LICENSE
 
 # Configuración de la documentación
 plugins:
